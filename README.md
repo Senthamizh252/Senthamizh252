@@ -1,73 +1,152 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Senthamizh%20S&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20CSE%20Student%20%7C%20Problem%20Solver&descAlignY=60&descSize=18" width="100%"/> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Senthamizh;Full+Stack+Developer+%F0%9F%9A%80;Spring+Boot+%7C+React+%7C+MySQL;Building+scalable+web+applications" alt="Typing SVG" /> </a> <br/>
+<h1 align="center">👋 Hey, I'm Senthamizh</h1>
 
-Show Image Show Image
+<h3 align="center">Computer Science Engineer | Full Stack Developer | Java & Spring Boot | Data Science Enthusiast</h3>
 
-</div>
-👨‍💻 About Me
-java
-public class Senthamizh {
-    String role      = "Full Stack Developer Intern";
-    String education = "B.E. Computer Science & Engineering @ K.S.R. College of Engineering";
-    String cgpa      = "8.7";
-    String[] focus   = {"Full Stack Development", "REST APIs", "Data Science", "Problem Solving"};
+<p align="center">
+  Computer Science student who enjoys building web applications that solve real problems.<br>
+  Working across Java, Spring Boot and React — one project at a time.
+</p>
 
-    String currentlyLearning() {
-        return "Scalable system design & Data Science";
-    }
-}
-🎓 Pursuing B.E. in Computer Science and Engineering (2024 – Present) at K.S.R. College of Engineering, Namakkal
-💼 Full Stack Development Intern at Touchmark Descience Company
-🔭 Building web apps with Spring Boot, React, and MySQL
-🌱 Passionate about Software Development and Data Science
-🏆 Qualified for the 2nd Round of the NxtWave Buildathon (in collaboration with OpenAI)
-📫 Reach me at senthamizh252@gmail.com
-🛠️ Tech Stack
-💻 Languages
-<p> <img src="https://skillicons.dev/icons?i=java,python,c,js&theme=dark" /> </p>
-🎨 Frontend
-<p> <img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" /> </p>
-⚙️ Backend
-<p> <img src="https://skillicons.dev/icons?i=spring,nodejs,express&theme=dark" /> </p>
-🗄️ Database
-<p> <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" /> </p>
-🧰 Tools
-<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" /> <img src="https://img.shields.io/badge/MySQL_Workbench-00758F?style=for-the-badge&logo=mysql&logoColor=white" /> </p>
-📚 Core Subjects
+<p align="center">
+  <img src="https://img.shields.io/badge/Student-→-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Builder-→-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java%20%2B%20Spring%20Boot%20%2B%20React-purple?style=for-the-badge" />
+</p>
 
-Show Image Show Image Show Image Show Image
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Senthamizh252&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-🚀 Featured Projects
-<div align="center"> <a href="https://github.com/Senthamizh252/Employee-Leave-Management-System"> <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Senthamizh252&repo=Employee-Leave-Management-System&theme=tokyonight&hide_border=true" /> </a> <a href="https://github.com/Senthamizh252/HealOn"> <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Senthamizh252&repo=HealOn&theme=tokyonight&hide_border=true" /> </a> </div>
-🧾 Employee Leave Management System
+---
 
-Show Image Show Image Show Image
+## 🚀 What I Do
 
-Full-stack leave management app with Admin and Employee modules
-Authentication, leave application, approval workflow, and employee management
-React frontend integrated with Spring Boot and MySQL through REST APIs
-🏥 HealOn – Smart Telemedicine Platform
+- Build full-stack web applications
+- Develop REST APIs and backend services with Spring Boot
+- Design and work with relational and NoSQL databases
+- Strengthen core CS fundamentals: DSA, DBMS, OOP and Operating Systems
+- Explore Data Science
+- Take part in hackathons and coding competitions
 
-Show Image Show Image Show Image
+**Main areas:** `Full Stack` · `Backend` · `Java` · `REST APIs` · `Data Science`
 
-Telemedicine platform to improve healthcare accessibility in rural areas
-Appointment scheduling, patient management, and doctor modules
-Responsive interface integrated with backend services
-💼 Experience
-Role	Company	Highlights
-Full Stack Development Intern	Touchmark Descience Company	Built responsive web apps with Spring Boot, React & MySQL; developed REST APIs; debugging & testing
-🏆 Achievements & Hackathons
-🥈 Qualified for the Second Round of the NxtWave Buildathon (in collaboration with OpenAI)
-💡 Participated in the TNWISE Hackathon
-🐞 Participated in a Debugging Competition
-📊 GitHub Stats
-<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=Senthamizh252&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Senthamizh252&layout=compact&theme=tokyonight&hide_border=true" /> <br/> <img src="https://streak-stats.demolab.com?user=Senthamizh252&theme=tokyonight&hide_border=true" /> <br/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Senthamizh252&theme=tokyo-night&hide_border=true" width="95%"/> </div>
-🤝 Let's Connect
-<div align="center">
+---
 
-LinkedIn Gmail GitHub
+## 🧠 Tech I Work With
 
-<br/>
+**Languages**
 
-"Code is like humor. When you have to explain it, it's bad."
+<p>
+  <img src="https://skillicons.dev/icons?i=java,py,c,js" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" width="100%"/> </div>
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
+
+**Backend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+**Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+**Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+---
+
+## 🔨 What I've Built
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗂️ Employee Leave Management System</h3>
+      <p>A full-stack system with Admin and Employee modules, covering authentication, leave applications and an approval workflow.</p>
+      <p><b>Stack:</b> Spring Boot · React · MySQL</p>
+      <p><a href="YOUR_PROJECT_REPO_URL">🔗 View Repository</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🩺 HealOn – Smart Telemedicine Platform</h3>
+      <p>A telemedicine platform to improve healthcare access in rural areas, with appointment scheduling, patient management and doctor modules.</p>
+      <p><b>Stack:</b> React · Spring Boot · MySQL</p>
+      <p><a href="YOUR_PROJECT_REPO_URL">🔗 View Repository</a></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 💼 Experience
+
+| Role | Company | Focus |
+|------|---------|-------|
+| **Full Stack Development Intern** | Touchmark Descience Company | Spring Boot, React, MySQL, REST APIs, debugging and testing |
+
+🎓 **B.E. Computer Science and Engineering** — K.S.R. College of Engineering (2024 – Present) · CGPA 8.7
+
+---
+
+## 🏆 Highlights
+
+- 🚀 Qualified for the **Second Round** of the **NxtWave Buildathon** (in collaboration with OpenAI)
+- 👩‍💻 Participated in the **TNWISE Hackathon**
+- 🐞 Participated in a **Debugging Competition**
+
+---
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+- Backend development with Spring Boot
+- Data Science
+- Building scalable web applications
+
+---
+
+## 🎯 My Goal
+
+I want to grow into a strong software engineer who builds reliable, scalable applications. I'm getting there by shipping real projects, sharpening my Java and problem-solving fundamentals, and learning from every hackathon and internship.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Senthamizh252&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Senthamizh252&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Senthamizh252&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Senthamizh252">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:senthamizh252@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center"><i>Always open to collaborating on projects, hackathons and ideas.</i></p>
